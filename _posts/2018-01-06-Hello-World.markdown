@@ -5,7 +5,7 @@ date: 2018-01-06
 description: My First Blog Post. # Add post description (optional)
 img: post-6.jpg # Add image post (optional)
 tags: [Blog, First Post]
-author: # Add name author (optional)
+author: Lawrence Karanja# Add name author (optional)
 ---
 
 Welcome to my very first blog post!!!
