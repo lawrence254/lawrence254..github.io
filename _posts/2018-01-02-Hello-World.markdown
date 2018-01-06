@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World
-date: 2018-01-06
+date: 2018-01-02
 description: My First Blog Post. # Add post description (optional)
 img: post-6.jpg # Add image post (optional)
 tags: [Blog, First Post]
