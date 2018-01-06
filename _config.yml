@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   also knows about networking. I love to experiment with different technologies, travel, play chess and I also read...A lot.
   I will use this blog to share some the things I'm currently doing,reading and also use it as a personal portforlio.
 permalink: ':title/'
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
