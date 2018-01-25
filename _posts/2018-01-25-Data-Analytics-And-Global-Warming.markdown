@@ -11,7 +11,7 @@ So today I decided to dive into the deepend of Data Analytics without any
 previous know how of what or how this field of IT/Statistics(Had to cover everyone there) even worked and I have to say 
 I'm equally excited,frightened and somewhat disapointed.
 
-Let's get rght into it. I  am really excited at all the possibilities that this field has to offer 
+Let's get right into it. I  am really excited at all the possibilities that this field has to offer 
 in terms of gaining more insight into the gargantuan amounts of data that we humans are generating every second of everyday. 
 Let us get "Techy" for a minute here... In the last 2 years or so we have managed to generate 90% of all the data in the world today,
 This translates to a whopping 2.5 quintillion bytes per day(<a href="https://www.domo.com/learn/data-never-sleeps-5">Data Never Sleeps 5.0</a>). 
