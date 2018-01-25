@@ -3,7 +3,7 @@ layout: post
 title: Data Analytics And Global Warming
 date: 2018-01-25
 description: My First Attempt At Data Analytics. # Add post description (optional)
-img: gw.jpg
+img: hunger-games.jpg
 tags: [Data Analytics,Pandas]
 author: Lawrence Karanja # Add name author (optional)
 ---
