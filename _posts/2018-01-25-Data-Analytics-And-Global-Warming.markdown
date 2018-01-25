@@ -1,13 +1,3 @@
----
-layout: post
-title: Data Analytics And Global Warming
-date: 2018-01-25
-description: My First Attempt At Data Analytics. # Add post description (optional)
-img: gw.jpg
-tags: [Data Analytics,Analytics,Weather,Kenya,,Africa,Gloal Warming,OpenData,Python,Pandas]
-author: Lawrence Karanja # Add name author (optional)
----
-
 So today I decided to dive into the deepend of Data Analytics without any 
 previous know how of what or how this field of IT/Statistics(Had to cover everyone there) even worked and I have to say 
 I'm equally excited,frightened and somewhat disapointed.
