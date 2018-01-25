@@ -30,7 +30,7 @@ and so I decided to learn by following along. The exercise involves going throug
 I can gain real insights about where I'm from.
 
 And herein lay my problem, getting the historical temperature dataset for Kenya proved to be almost nightmarish. The first place I looked was <a href="http://www.opendata.go.ke/datasets">Kenya OpenData</a>
-but I was dissapointed because nothig was forthcoming. Inspite of this I decided to try and download a random dataset but apparently I have to sign up to ESRI to get access to the datasets(I stand to be corrected).
+but I was dissapointed because nothing was forthcoming. Inspite of this I decided to try and download a random dataset but apparently I have to sign up to ESRI to get access to the datasets(I stand to be corrected).
 I decided to hit google and try my luck elsewhere and after a couple of fails I landed at http://sdwebx.worldbank.org/climateportal/index.cfm?page=country_historical_climate&ThisCCode=KEN where I found historical data going back to 1901.
 This dataset was very appealing to me since it closely matched the one used in the tutorial and it had enough differences that I learnt a few things on my own.
 
