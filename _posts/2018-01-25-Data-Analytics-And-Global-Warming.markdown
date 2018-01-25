@@ -14,7 +14,7 @@ I'm equally excited,frightened and somewhat disapointed.
 Let's get rght into it. I  am really excited at all the possibilities that this field has to offer 
 in terms of gaining more insight into the gargantuan amounts of data that we humans are generating every second of everyday. 
 Let us get "Techy" for a minute here... In the last 2 years or so we have managed to generate 90% of all the data in the world today,
-This translates to a whopping 2.5 quintillion bytes per day(<a href="https://www.domo.com/learn/data-never-sleeps-5">Data Never Sleeps 5.0</a>. 
+This translates to a whopping 2.5 quintillion bytes per day(<a href="https://www.domo.com/learn/data-never-sleeps-5">Data Never Sleeps 5.0</a>). 
 
 With all this data we can now be able to drill down and find patterns and information that we didn't know existed before. This is made possible through
 tools such as Pandas, Hadoop among others to be mentioned in later posts.
@@ -24,12 +24,12 @@ but we have no real control over what company A, B or C are allowed to store abo
 data is nowadays, controlling the data that a company is allowed to use and for what purpose seems paramount but I digress.
 
 So let's get into my first day dealing with and learning about Data Analytics. My mode of learning? YouTube of course, there are a lot of 
-materials that teach data analytics using a variety of tools. I happened across this video https://www.youtube.com/watch?v=POe1cufDWFs that I felt 
+materials that teach data analytics using a variety of tools. I happened across this video <a href="https://www.youtube.com/watch?v=POe1cufDWFs">Data Science with Python Pandas by Athena Kan</a> that I felt 
 did a great job of introducing the concepts of data analytics. Within the tutorial there are exercises that are used to show these concepts in practise 
 and so I decided to learn by following along. The exercise involves going through a global temparature dataset but I decided to remain local so that 
 I can gain real insights about where I'm from.
 
-And herein lay my problem, getting the historical temperature dataset for Kenya proved to be almost nightmarish. The first place I looked was http://www.opendata.go.ke/datasets
+And herein lay my problem, getting the historical temperature dataset for Kenya proved to be almost nightmarish. The first place I looked was <a href="http://www.opendata.go.ke/datasets">Kenya OpenData</a>
 but I was dissapointed because nothig was forthcoming. Inspite of this I decided to try and download a random dataset but apparently I have to sign up to ESRI to get access to the datasets(I stand to be corrected).
 I decided to hit google and try my luck elsewhere and after a couple of fails I landed at http://sdwebx.worldbank.org/climateportal/index.cfm?page=country_historical_climate&ThisCCode=KEN where I found historical data going back to 1901.
 This dataset was very appealing to me since it closely matched the one used in the tutorial and it had enough differences that I learnt a few things on my own.
