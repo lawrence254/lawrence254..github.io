@@ -3,7 +3,7 @@ layout: post
 title: Solving NMI watchdog soft bug lockup error
 date: 2018-10-02
 description: Solving The NMI watchdog soft bug lockup error wwhen trying to dual boot on laptops with nvidia graphics cards. # Add post description (optional)
-img: Global-Warming.jpg
+img: gr404.jpg
 tags: [Editing Grub,Grub,Dual boot,Nvidia]
 author: Lawrence Karanja # Add name author (optional)
 ---
